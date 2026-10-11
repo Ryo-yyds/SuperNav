@@ -48,6 +48,7 @@ id_rsa*
 id_ed25519*
 data/runs
 data/nav_artifacts/
+output/
 data/nav_artifacts_controller/
 *.log
 
